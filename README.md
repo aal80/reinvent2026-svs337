@@ -2,7 +2,7 @@
 
 (reinvent2026-SVS337)
 
-As serverless adoption grows, teams need consistent patterns for security, observability, governance, and CI/CD to avoid duplicating efforts and architectural inconsistencies.This session explores serverless platform engineering through a lens of architectural blueprints: a structured approach that promotes consistency while empowering teams to focus on core business value. Learn what constitutes a practical serverless blueprint, technically and culturally, and how Agentic AI assistants are transforming platform operations. Leave with actionable insights for scaling serverless adoption across your organization.
+Agents running generated code, multi-tenant platforms, and untrusted workloads all need strong isolation, but each traditional compute option forces a tradeoff. VMs isolate well but start slowly. Containers are fast but share a kernel. Functions scale to zero but limit state. Teams close the gaps with isolation logic they build and maintain themselves. Lambda MicroVMs offer sandboxes with VM-level isolation for each agent, tenant, or task: state that persists across invocations, automatic suspend on idle, resume on demand. This session covers how MicroVMs work, the security and isolation model, lifecycle management, and patterns for agentic sandboxing and untrusted code execution.
 
 ## Video (click to watch)
 TBD
