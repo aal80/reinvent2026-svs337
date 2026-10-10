@@ -14,6 +14,7 @@ TBD
 * [Session presentation slides - TBD](./TBD.pdf?raw=true)
 
 ## Useful links
+* [Lambda MicroVM Demo Playground](https://lambda-microvm-demo-playground.antonaws.com/)
 * [[Docs] Lambda MicroVM docs](https://docs.aws.amazon.com/lambda/latest/dg/lambda-microvms-guide.html)
 * [[Workshop] Lambda MicroVM workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/6d4c8211-decb-4c20-932a-4de228ef152e/en-US)
 * [[Samples] Lambda MicroVM sample patterns](https://serverlessland.com/patterns?services=lambda-microvms)
